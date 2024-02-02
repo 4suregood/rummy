@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rummy/static/css/main.f855e6bc.css",
+    "main.js": "/rummy/static/js/main.e513d58f.js",
+    "static/js/592.4610f7df.chunk.js": "/rummy/static/js/592.4610f7df.chunk.js",
+    "static/media/logo.svg": "/rummy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rummy/index.html",
+    "main.f855e6bc.css.map": "/rummy/static/css/main.f855e6bc.css.map",
+    "main.e513d58f.js.map": "/rummy/static/js/main.e513d58f.js.map",
+    "592.4610f7df.chunk.js.map": "/rummy/static/js/592.4610f7df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e513d58f.js"
+  ]
+}
