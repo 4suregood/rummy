@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  /* height: 100%; */
+  background-image: url("../src/images/greenbg.jpg");
+  background-repeat: repeat;
+  background-color: #cccccc;
 }
 
 .App-logo {
@@ -14,8 +18,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  /* background-color: #282c34; */
+ min-height: 100vh; 
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -35,4 +39,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.dim {
+  font-family: sans-serif;
+  text-align: center;
+  width: 100%;
+  background-color: #eee;
+  padding: 0.5rem;
 }
